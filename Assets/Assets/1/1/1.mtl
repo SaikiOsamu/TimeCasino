@@ -1,0 +1,24 @@
+# Blender 3.6.2 MTL File: '1.blend'
+# www.blender.org
+
+newmtl 1
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:/sucai/dan/闹钟渲染/tietu/2_1_BaseColor.1001.png
+map_Ns E:/sucai/dan/闹钟渲染/tietu/2_1_Roughness.1001.png
+map_refl E:/sucai/dan/闹钟渲染/tietu/2_1_Metallic.1001.png
+map_Bump -bm 1.000000 E:/sucai/dan/闹钟渲染/tietu/2_1_Normal.1001.png
+
+newmtl 材质
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
