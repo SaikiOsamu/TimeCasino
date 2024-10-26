@@ -17,6 +17,7 @@ public class SoloCreateDoor : MonoBehaviour
     private GameObject currentDoor;
 
     public PlayerAudio playerAudio;
+    public CardUIManager cardUIManager;
 
     // Start is called before the first frame update
     void Start()
@@ -63,6 +64,10 @@ public class SoloCreateDoor : MonoBehaviour
                 //playerAudio.CreatePortalSound();
                 RequestDoor(position, rotation);
                 useCounts--;
+                if (useCounts <= 0)
+                {
+                    cardUIManager.UpdateUtilLogo(0);
+                }
             }
             else
             {

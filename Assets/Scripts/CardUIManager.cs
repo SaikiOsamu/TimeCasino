@@ -31,19 +31,6 @@ public class CardUIManager : MonoBehaviour
         {
             BotRight[i].sprite = emptyCard;
         }
-        missionIndex = Random.Range(0, 3);
-        switch(missionIndex)
-        {
-            case 0:
-                missionText.text = "Mission: No current mission";
-                break;
-            case 1:
-                missionText.text = "Mission: Pick up 2 Hearts(Bonus: 30s)";
-                break;
-            case 2:
-                missionText.text = "Mission: no mission";
-                break;
-        }
         GenerateDeck();
         UpdateUtilLogo(0);
     }
@@ -226,5 +213,21 @@ public class CardUIManager : MonoBehaviour
         return num;
     }
 
+    public void GetRandomMission()
+    {
+        missionIndex = Random.Range(0, 3);
+        switch (missionIndex)
+        {
+            case 0:
+                missionText.text = "Mission: No current mission";
+                break;
+            case 1:
+                missionText.text = "Mission: Pick up 2 Hearts(Bonus: 30s)";
+                break;
+            case 2:
+                missionText.text = "Mission: no mission";
+                break;
+        }
+    }
 
 }

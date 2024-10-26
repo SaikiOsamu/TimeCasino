@@ -60,6 +60,7 @@ public class PickUpCard : MonoBehaviour
                         else if (cardNumber == 2)
                         {
                             soloCreateDoor.enabled = true;
+                            cardUIManager.UpdateUtilLogo(2);
                         }
 
                         cardUIManager.ReplaceCard("Heart", cardNumber);

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Projects\\TimeCasino\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF16691-8A05-4C12-8FF3-AB89E55FA15E}|Assembly-CSharp.csproj|D:\\Unity Projects\\TimeCasino\\assets\\scripts\\carduimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF16691-8A05-4C12-8FF3-AB89E55FA15E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carduimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF16691-8A05-4C12-8FF3-AB89E55FA15E}|Assembly-CSharp.csproj|d:\\unity projects\\timecasino\\assets\\scripts\\singleplayer\\triggertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF16691-8A05-4C12-8FF3-AB89E55FA15E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\singleplayer\\triggertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF16691-8A05-4C12-8FF3-AB89E55FA15E}|Assembly-CSharp.csproj|d:\\unity projects\\timecasino\\assets\\scripts\\singleplayer\\calculatecards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF16691-8A05-4C12-8FF3-AB89E55FA15E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\singleplayer\\calculatecards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF16691-8A05-4C12-8FF3-AB89E55FA15E}|Assembly-CSharp.csproj|D:\\Unity Projects\\TimeCasino\\assets\\scripts\\singleplayer\\pickupcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF16691-8A05-4C12-8FF3-AB89E55FA15E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\singleplayer\\pickupcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF16691-8A05-4C12-8FF3-AB89E55FA15E}|Assembly-CSharp.csproj|d:\\unity projects\\timecasino\\assets\\scripts\\singleplayer\\solocreatedoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF16691-8A05-4C12-8FF3-AB89E55FA15E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\singleplayer\\solocreatedoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF16691-8A05-4C12-8FF3-AB89E55FA15E}|Assembly-CSharp.csproj|D:\\Unity Projects\\TimeCasino\\assets\\scripts\\singleplayer\\soloplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF16691-8A05-4C12-8FF3-AB89E55FA15E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\singleplayer\\soloplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SoloCreateDoor.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\TimeCasino\\Assets\\Scripts\\SinglePlayer\\SoloCreateDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SinglePlayer\\SoloCreateDoor.cs",
+              "ToolTip": "D:\\Unity Projects\\TimeCasino\\Assets\\Scripts\\SinglePlayer\\SoloCreateDoor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SinglePlayer\\SoloCreateDoor.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwEQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:23:31.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoloPlayerMovement.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\TimeCasino\\Assets\\Scripts\\SinglePlayer\\SoloPlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SinglePlayer\\SoloPlayerMovement.cs",
+              "ToolTip": "D:\\Unity Projects\\TimeCasino\\Assets\\Scripts\\SinglePlayer\\SoloPlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SinglePlayer\\SoloPlayerMovement.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwE8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:11:44.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PickUpCard.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\TimeCasino\\Assets\\Scripts\\SinglePlayer\\PickUpCard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SinglePlayer\\PickUpCard.cs",
+              "ToolTip": "D:\\Unity Projects\\TimeCasino\\Assets\\Scripts\\SinglePlayer\\PickUpCard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SinglePlayer\\PickUpCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:11:34.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculateCards.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\TimeCasino\\Assets\\Scripts\\SinglePlayer\\CalculateCards.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SinglePlayer\\CalculateCards.cs",
+              "ToolTip": "D:\\Unity Projects\\TimeCasino\\Assets\\Scripts\\SinglePlayer\\CalculateCards.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SinglePlayer\\CalculateCards.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:17:28.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TriggerText.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\TimeCasino\\Assets\\Scripts\\SinglePlayer\\TriggerText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SinglePlayer\\TriggerText.cs",
+              "ToolTip": "D:\\Unity Projects\\TimeCasino\\Assets\\Scripts\\SinglePlayer\\TriggerText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SinglePlayer\\TriggerText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:13:13.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardUIManager.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\TimeCasino\\Assets\\Scripts\\CardUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardUIManager.cs",
+              "ToolTip": "D:\\Unity Projects\\TimeCasino\\Assets\\Scripts\\CardUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardUIManager.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAswM8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:14:18.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

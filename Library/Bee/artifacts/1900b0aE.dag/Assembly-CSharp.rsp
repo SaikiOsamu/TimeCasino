@@ -459,6 +459,7 @@
 "Assets/Scripts/SinglePlayer/SoloPlayerCamera.cs"
 "Assets/Scripts/SinglePlayer/SoloPlayerMovement.cs"
 "Assets/Scripts/SinglePlayer/SoloTimer.cs"
+"Assets/Scripts/SinglePlayer/TriggerText.cs"
 -langversion:9.0
 
 /deterministic
