@@ -41,6 +41,10 @@ public class CalculateCards : MonoBehaviour
             switch(cardUIManager.GetMissionIndex())
             {
                 case 0:
+                    if (cardUIManager.GetCardNumByColor("Spades") >= 2)
+                    {
+                        extraScore = 30;
+                    }
                     break;
                 case 1:
                     if(cardUIManager.GetCardNumByColor("Heart") >= 2)
@@ -49,6 +53,10 @@ public class CalculateCards : MonoBehaviour
                     }
                     break;
                 case 2:
+                    if (cardUIManager.GetCardNumByColor("Clubs") >= 2)
+                    {
+                        extraScore = 30;
+                    }
                     break;
             }
             extraScoreText.text = "Extra score: " + extraScore;

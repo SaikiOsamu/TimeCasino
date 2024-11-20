@@ -105,7 +105,7 @@ public class CardUIManager : MonoBehaviour
 
     public int[,] RandomDeck()
     {
-        int[,] num = new int[3, 2];
+        /*int[,] num = new int[3, 2];
         List<string> usedCombinations = new List<string>(); // 用于存储已经生成的组合
 
         for (int i = 0; i < 3; i++)
@@ -127,6 +127,22 @@ public class CardUIManager : MonoBehaviour
             usedCombinations.Add(combination);
 
         }
+        for (int i = 0; i < 3; i++)
+        {
+            Debug.Log(num[i, 0].ToString() + " " + num[i, 1].ToString());
+        }
+        return num;*/
+        //Cheat
+        int[,] num = new int[3, 2];
+
+        // 作弊：直接生成红心A，红心Q，红心10
+        num[0, 0] = 0; // 红心
+        num[0, 1] = 0; // A (索引从0开始)
+        num[1, 0] = 0; // 红心
+        num[1, 1] = 11; // Q (索引从0开始)
+        num[2, 0] = 0; // 红心
+        num[2, 1] = 9; // 10 (索引从0开始)
+
         for (int i = 0; i < 3; i++)
         {
             Debug.Log(num[i, 0].ToString() + " " + num[i, 1].ToString());
@@ -219,13 +235,13 @@ public class CardUIManager : MonoBehaviour
         switch (missionIndex)
         {
             case 0:
-                missionText.text = "Mission: No current mission";
+                missionText.text = "Mission: Pick up 2 Spades(Bonus: 30s)";
                 break;
             case 1:
                 missionText.text = "Mission: Pick up 2 Hearts(Bonus: 30s)";
                 break;
             case 2:
-                missionText.text = "Mission: no mission";
+                missionText.text = "Mission: Pick up 2 Clubs(Bonus: 30s)";
                 break;
         }
     }
